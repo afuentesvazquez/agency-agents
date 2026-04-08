@@ -1,3 +1,5 @@
+"use client";
+
 const tier1Artifacts = [
   {
     num: "01",
@@ -206,6 +208,32 @@ export default function WhatYouGet() {
               </div>
             ))}
           </div>
+        </div>
+
+        {/* Bottom CTA — appears after strongest value argument */}
+        <div className="mt-14 flex flex-col sm:flex-row gap-4 justify-center items-center">
+          <a
+            href="#pricing"
+            className="inline-flex items-center justify-center px-7 py-4 rounded text-sm font-semibold transition-all active:scale-95"
+            style={{
+              backgroundColor: "#C89B3C",
+              color: "#0A0A0F",
+              fontFamily: "var(--font-heading), sans-serif",
+            }}
+            onMouseEnter={(e) => (e.currentTarget.style.backgroundColor = "#D4A84A")}
+            onMouseLeave={(e) => (e.currentTarget.style.backgroundColor = "#C89B3C")}
+          >
+            Get the Concept Pack — $39
+          </a>
+          <a
+            href="#pricing"
+            className="text-sm font-medium transition-all"
+            style={{ color: "#8A8A96" }}
+            onMouseEnter={(e) => (e.currentTarget.style.color = "#E8E8ED")}
+            onMouseLeave={(e) => (e.currentTarget.style.color = "#8A8A96")}
+          >
+            Or start with the Concept Test — $19 →
+          </a>
         </div>
       </div>
     </section>

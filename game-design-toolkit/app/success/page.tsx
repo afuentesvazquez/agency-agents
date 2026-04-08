@@ -6,6 +6,7 @@ export const metadata: Metadata = {
   robots: "noindex",
 };
 
+const TIER2_CHECKOUT_URL = process.env.NEXT_PUBLIC_STRIPE_TIER2_URL ?? "/#pricing";
 const TIER1_ZIP_URL = process.env.NEXT_PUBLIC_TIER1_DOWNLOAD_URL ?? "#";
 const TIER2_ZIP_URL = process.env.NEXT_PUBLIC_TIER2_DOWNLOAD_URL ?? "#";
 
@@ -113,7 +114,7 @@ export default function SuccessPage({
               examples, 7 advanced frameworks, and the Scope Filter Matrix.
             </p>
             <a
-              href={TIER2_ZIP_URL === "#" ? "/#pricing" : TIER2_ZIP_URL}
+              href={TIER2_CHECKOUT_URL}
               className="text-sm font-medium"
               style={{ color: "#C89B3C" }}
             >

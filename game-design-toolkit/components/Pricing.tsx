@@ -1,3 +1,5 @@
+"use client";
+
 const TIER1_URL = process.env.NEXT_PUBLIC_STRIPE_TIER1_URL ?? "#";
 const TIER2_URL = process.env.NEXT_PUBLIC_STRIPE_TIER2_URL ?? "#";
 
@@ -57,9 +59,9 @@ export default function Pricing() {
         </p>
 
         <div className="grid md:grid-cols-2 gap-6">
-          {/* Tier 1 */}
+          {/* Tier 1 — pushed below Tier 2 on mobile */}
           <div
-            className="flex flex-col p-8 rounded"
+            className="flex flex-col p-8 rounded order-2 md:order-1"
             style={{
               backgroundColor: "#12121A",
               border: "1px solid #1E1E2A",
@@ -123,9 +125,9 @@ export default function Pricing() {
             </a>
           </div>
 
-          {/* Tier 2 — highlighted */}
+          {/* Tier 2 — highlighted, shown first on mobile */}
           <div
-            className="flex flex-col p-8 rounded relative"
+            className="flex flex-col p-8 rounded relative order-1 md:order-2"
             style={{
               backgroundColor: "#16161F",
               border: "1px solid #C89B3C",
@@ -207,7 +209,7 @@ export default function Pricing() {
           </div>
         </div>
 
-        <p className="mt-8 text-xs text-center" style={{ color: "#4A6274" }}>
+        <p className="mt-8 text-xs text-center" style={{ color: "#8A8A96" }}>
           PDF + editable Markdown · Instant delivery · 14-day refund policy
         </p>
       </div>

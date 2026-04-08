@@ -1,3 +1,5 @@
+"use client";
+
 const TIER1_URL = process.env.NEXT_PUBLIC_STRIPE_TIER1_URL ?? "#pricing";
 const TIER2_URL = process.env.NEXT_PUBLIC_STRIPE_TIER2_URL ?? "#pricing";
 
@@ -21,8 +23,8 @@ export default function FinalCTA() {
         </h2>
 
         <p className="mb-10 text-base leading-relaxed" style={{ color: "#8A8A96" }}>
-          Every month spent building without concept clarity is a month you might
-          need to redo. The Concept Test takes a weekend. The cost of not doing it
+          Every month you build without concept clarity is a month you may be
+          building the wrong thing. The Concept Test takes a weekend. The cost of not doing it
           is measured in months.
         </p>
 

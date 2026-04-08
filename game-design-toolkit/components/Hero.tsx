@@ -1,4 +1,4 @@
-import Link from "next/link";
+"use client";
 
 const TIER1_URL = process.env.NEXT_PUBLIC_STRIPE_TIER1_URL ?? "#pricing";
 const TIER2_URL = process.env.NEXT_PUBLIC_STRIPE_TIER2_URL ?? "#pricing";
@@ -59,31 +59,35 @@ export default function Hero() {
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
           <a
             href={TIER2_URL}
-            className="inline-flex items-center justify-center px-7 py-4 rounded text-sm font-semibold transition-all"
+            className="inline-flex items-center justify-center px-7 py-4 rounded text-sm font-semibold transition-all active:scale-95"
             style={{
               backgroundColor: "#C89B3C",
               color: "#0A0A0F",
               fontFamily: "var(--font-heading), sans-serif",
             }}
+            onMouseEnter={(e) => (e.currentTarget.style.backgroundColor = "#D4A84A")}
+            onMouseLeave={(e) => (e.currentTarget.style.backgroundColor = "#C89B3C")}
           >
             Get the Full Pack — $39
           </a>
           <a
             href={TIER1_URL}
-            className="inline-flex items-center justify-center px-7 py-4 rounded text-sm font-medium transition-all"
+            className="inline-flex items-center justify-center px-7 py-4 rounded text-sm font-medium transition-all active:scale-95"
             style={{
               backgroundColor: "transparent",
               color: "#E8E8ED",
               border: "1px solid #1E1E2A",
               fontFamily: "var(--font-heading), sans-serif",
             }}
+            onMouseEnter={(e) => (e.currentTarget.style.border = "1px solid #8A8A96")}
+            onMouseLeave={(e) => (e.currentTarget.style.border = "1px solid #1E1E2A")}
           >
             Start with the Concept Test — $19
           </a>
         </div>
 
-        {/* Trust line */}
-        <p className="mt-8 text-xs" style={{ color: "#4A6274" }}>
+        {/* Trust line — bumped to #8A8A96 for WCAG AA contrast */}
+        <p className="mt-8 text-xs" style={{ color: "#8A8A96" }}>
           Instant delivery · PDF + Markdown · 14-day refund policy
         </p>
       </div>
@@ -93,8 +97,7 @@ export default function Hero() {
         <div
           className="w-px h-12"
           style={{
-            background:
-              "linear-gradient(to bottom, #1E1E2A, transparent)",
+            background: "linear-gradient(to bottom, #1E1E2A, transparent)",
           }}
         />
       </div>
