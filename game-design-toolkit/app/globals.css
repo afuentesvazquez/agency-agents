@@ -1,0 +1,45 @@
+@import "tailwindcss";
+
+:root {
+  --bg: #0A0A0F;
+  --bg-card: #12121A;
+  --bg-card-hover: #16161F;
+  --border: #1E1E2A;
+  --text-primary: #E8E8ED;
+  --text-secondary: #8A8A96;
+  --accent: #C89B3C;
+  --accent-muted: #4A6274;
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-bg-card: var(--bg-card);
+  --color-border: var(--border);
+  --color-text-primary: var(--text-primary);
+  --color-text-secondary: var(--text-secondary);
+  --color-accent: var(--accent);
+  --color-accent-muted: var(--accent-muted);
+}
+
+html {
+  background-color: #0A0A0F;
+  color: #E8E8ED;
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #0A0A0F;
+  color: #E8E8ED;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+::selection {
+  background-color: #C89B3C33;
+  color: #E8E8ED;
+}
+
+/* Horizontal rule style */
+hr {
+  border-color: #1E1E2A;
+}
