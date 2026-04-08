@@ -6,12 +6,16 @@ tags: [game-design, worksheet, seed, mandate, concept]
 status: blank
 ---
 
+### Clarify what you're building before you build anything
+
 
 > **Design question:** What is this game and why does it need to exist?
 >
 > **Time to complete:** 15–20 minutes
 >
-> **When to use:** First. Before any other worksheet. If you can't complete this one, you don't have a concept yet — you have an idea.
+> **When to use:** Start here — this is Worksheet 1 of 15. If you can't complete this one, you don't have a concept yet — you have an idea. That's normal. The goal of this worksheet is to find out.
+>
+> **What you'll have when you're done:** A named game concept with a clear mandate, defined inspiration sources, and explicit non-negotiables.
 
 ---
 
@@ -71,6 +75,15 @@ _____________________________________________________________
 > What must this game deliver to be worth building? These are non-negotiables — if the game ships without delivering these, it has failed regardless of what else it does.
 >
 > Write 3–5 mandates. Each one should be specific enough that you could test it with a playtest.
+>
+> **Strong mandate examples:**
+> - "A player must be able to understand the core loop without reading instructions."
+> - "Combat must feel physically weighty — every hit needs screen shake or sound feedback."
+> - "The game must be completable in a single 20-minute session."
+>
+> **Weak mandate examples** (too vague to test):
+> - "The game should be fun."
+> - "Good graphics."
 
 ```
 This game must:
@@ -126,14 +139,14 @@ This game will NOT require the player to ____________________
 
 ## Completion Check
 
-Before moving to Worksheet 2, confirm:
+You're ready for Worksheet 2 when all four of these are true:
 
 - [ ] My one-sentence description has no "and also" or "but then"
 - [ ] My mandate has at least 3 specific, testable non-negotiables
 - [ ] I can explain the core fantasy in one sentence without mentioning mechanics
 - [ ] I know at least 2 specific inspiration sources and what I'm borrowing from each
 
-If any box is unchecked, go back and sharpen that section before continuing.
+Unchecked boxes aren't failures — they're the work left to do. Return to that section and tighten it before moving on. A shaky foundation here creates compounding problems in later worksheets.
 
 ---
 

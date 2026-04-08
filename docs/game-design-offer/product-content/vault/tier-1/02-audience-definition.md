@@ -6,12 +6,16 @@ tags: [game-design, worksheet, audience, players, positioning]
 status: blank
 ---
 
+### Define your target player before you design for them
+
 
 > **Design question:** Who is this for and what do they want?
 >
 > **Time to complete:** 15 minutes
 >
 > **When to use:** After Worksheet 1. You need a working title and core fantasy before you can define your audience accurately.
+>
+> **What you'll have when you're done:** A specific audience profile, 3 competitor games analyzed, and a completed gap statement.
 
 ---
 

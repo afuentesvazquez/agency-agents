@@ -6,12 +6,16 @@ tags: [game-design, worksheet, scope, cut-decisions, prioritization]
 status: blank
 ---
 
+### Make systematic cut decisions before you start building
+
 
 > **Design question:** What should I cut?
 >
 > **Time to complete:** 15–20 minutes
 >
 > **When to use:** After Worksheets 5 (Constraints), 8 (Secondary Mechanics), and 11 (Module Map). This is a decision-support tool — it gives you a systematic way to make cut decisions rather than cutting based on attachment or impulse.
+>
+> **What you'll have when you're done:** Every feature classified as KEEP, DEFER, or CUT, plus a final MVP feature list and deferred backlog.
 
 ---
 

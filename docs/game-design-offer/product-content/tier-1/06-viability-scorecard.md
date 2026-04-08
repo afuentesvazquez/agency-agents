@@ -1,18 +1,24 @@
 # Worksheet 6: Viability Scorecard
+### Get an honest verdict on whether this concept is ready to build
+
 
 > **Design question:** Should I prototype this, revise it, or kill it?
 >
 > **Time to complete:** 10 minutes
 >
 > **When to use:** After Worksheets 1–5. This scorecard only works if you've filled in the preceding worksheets. Scoring cold produces meaningless results.
+>
+> **What you'll have when you're done:** A viability score out of 40 and a verdict — Prototype It, Revise First, Rethink, or Kill It — plus 3 action items.
 
 ---
 
 ## Instructions
 
-Score your concept 1–5 on each dimension. Use the "What a 5 means" column as your benchmark. Be honest — inflated scores just delay the reckoning.
+Score your concept 1–5 on each of the 8 dimensions below. Use the "What a 5 means" description as your ceiling — if your concept doesn't match it completely, don't give yourself a 5.
 
-After scoring, add up your total and read the verdict.
+Be honest. Most first-pass concepts score in the 18–26 range. That's not a bad sign — it means you know what work is left. Inflated scores don't help you; they just move the reckoning to prototyping, where it costs more time.
+
+After scoring all 8 dimensions, add up your total and read the verdict at the bottom.
 
 ---
 
@@ -155,6 +161,8 @@ Top risks:
 
 > Do you genuinely want to build this, not just pitch it?
 
+This is not a soft question. Build motivation is the single best predictor of whether a project survives the middle — the long period after excitement fades and before you have anything to show. Be honest here.
+
 ```
 What a 5 means: You'd work on this unpaid. You find yourself
                 thinking about it without prompting. You'd be
@@ -162,7 +170,7 @@ What a 5 means: You'd work on this unpaid. You find yourself
 
 Your score: ___ / 5
 
-Notes:
+Notes (if your score is below 4, write why — what's making you hesitate?):
 _____________________________________________________________
 ```
 
@@ -217,7 +225,13 @@ Your verdict: ________________________________________________
 
 ## Action Items
 
-> Based on your score, list 3 things to do before moving forward:
+> Based on your verdict, write 3 concrete next steps. "Concrete" means a specific task you could start today — not "think more about X."
+>
+> **If your verdict was PROTOTYPE IT:** your action items are your first sprint tasks.
+>
+> **If your verdict was REVISE FIRST:** your action items are the weakest dimensions, and what specifically you'd do to strengthen each.
+>
+> **If your verdict was RETHINK or KILL IT:** your action items are what you'd change about the core premise before restarting Worksheet 1.
 
 ```
 1. ___________________________________________________________

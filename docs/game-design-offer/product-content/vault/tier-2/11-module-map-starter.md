@@ -6,12 +6,16 @@ tags: [game-design, worksheet, systems-map, architecture]
 status: blank
 ---
 
+### Map how your game's systems relate to each other
+
 
 > **Design question:** How do the game's systems relate to each other?
 >
 > **Time to complete:** 20–30 minutes
 >
 > **When to use:** After Worksheets 3, 4, and 8. You need a defined core mechanic, a mapped loop, and a list of secondary mechanics before you can accurately map system relationships.
+>
+> **What you'll have when you're done:** A connection map of all game systems, a priority label (CORE/SUPPORTING/PERIPHERAL/CUT) for each, and a prototype build order.
 
 ---
 

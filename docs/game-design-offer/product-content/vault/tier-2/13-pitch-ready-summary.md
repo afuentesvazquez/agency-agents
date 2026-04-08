@@ -6,12 +6,16 @@ tags: [game-design, worksheet, pitch, summary, communication]
 status: blank
 ---
 
+### Compress your concept into something you can share in 60 seconds
+
 
 > **Design question:** How do I share this concept with someone else in 60 seconds?
 >
 > **Time to complete:** 15 minutes
 >
 > **When to use:** After completing Worksheets 1–7 (and optionally 8–12). This is a synthesis document — it pulls the best outputs from your other worksheets into a single shareable page.
+>
+> **What you'll have when you're done:** A complete one-page concept summary you could hand to a collaborator, publisher, or playtest recruit today.
 
 ---
 

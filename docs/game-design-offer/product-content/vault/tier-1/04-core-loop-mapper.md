@@ -6,12 +6,16 @@ tags: [game-design, worksheet, core-loop, game-loops, retention]
 status: blank
 ---
 
+### Map what the player does repeatedly — and why they keep doing it
+
 
 > **Design question:** What does the player do, repeatedly, and why do they keep doing it?
 >
 > **Time to complete:** 20–30 minutes
 >
 > **When to use:** After Worksheet 3. You need a defined core mechanic before you can map the loops around it.
+>
+> **What you'll have when you're done:** Three connected loop layers (moment-to-moment, session, long-term) with a diagnosis of any missing or weak layer.
 
 ---
 

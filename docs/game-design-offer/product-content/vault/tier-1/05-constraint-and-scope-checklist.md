@@ -6,12 +6,16 @@ tags: [game-design, worksheet, scope, constraints, project-planning]
 status: blank
 ---
 
+### Name your real constraints before they become surprises
+
 
 > **Design question:** What are the hard limits on this project?
 >
 > **Time to complete:** 5–10 minutes
 >
 > **When to use:** After Worksheets 1–4. Constraints exist whether or not you name them. Naming them now prevents you from designing past your actual capacity.
+>
+> **What you'll have when you're done:** Every constraint category checked, your biggest risk named, and your cut priority order defined.
 
 ---
 

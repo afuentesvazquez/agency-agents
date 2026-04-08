@@ -1,10 +1,14 @@
 # Worksheet 7: Design Questions Checklist
+### Surface the design decisions you haven't made yet
+
 
 > **Design question:** Have I thought about everything that matters?
 >
 > **Time to complete:** 10–15 minutes
 >
 > **When to use:** After all other worksheets. This is a review pass — not a fill-in exercise. Check what you've answered. Flag what you haven't.
+>
+> **What you'll have when you're done:** A numbered list of open design questions (✗ items) your concept still hasn't answered before you prototype.
 
 ---
 

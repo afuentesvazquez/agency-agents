@@ -1,16 +1,22 @@
 # Worksheet 9: Colors of Game Design Review
+### Audit your concept across nine dimensions that make games compelling
+
 
 > **Design question:** Is this concept working across all the dimensions that make games compelling?
 >
 > **Time to complete:** 30 minutes
 >
 > **When to use:** After completing Tier 1 worksheets. This is a diagnostic audit — it reveals which design dimensions are strong and which ones your concept currently ignores.
+>
+> **What you'll have when you're done:** A 9-lens design profile (Strong/Neutral/Gap per lens) with your strongest lenses, gap lenses, and one design action identified.
 
 ---
 
 ## About This Framework
 
-The Colors of Game Design is a set of nine lenses for evaluating what makes a game compelling. Every successful game is strong in at least several of these dimensions. Most concepts have 2–3 natural strengths and 2–3 gaps.
+The Colors of Game Design is a set of nine analytical lenses distilled from game design theory and production practice — drawing on frameworks used by professional designers to diagnose why games work or fail. The nine dimensions here aren't exhaustive, but they cover the most common failure points in early-stage concept development.
+
+Every successful game is strong in at least several of these dimensions. Most concepts have 2–3 natural strengths and 2–3 gaps.
 
 The goal is not to max out every lens — it's to know which ones your game relies on and make sure you're actually delivering them.
 
@@ -50,7 +56,7 @@ Diagnostic questions:
 
 Rating:  [ ] Strong   [ ] Neutral   [ ] Gap
 
-Notes:
+Notes (What is your current plan for this lens? If it's a Gap, what would it take to move it to Neutral?):
 ___________________________________________________________
 ```
 
@@ -79,7 +85,7 @@ Diagnostic questions:
 
 Rating:  [ ] Strong   [ ] Neutral   [ ] Gap
 
-Notes:
+Notes (What is your current plan for this lens? If it's a Gap, what would it take to move it to Neutral?):
 ___________________________________________________________
 ```
 
@@ -108,7 +114,7 @@ Diagnostic questions:
 
 Rating:  [ ] Strong   [ ] Neutral   [ ] Gap
 
-Notes:
+Notes (What is your current plan for this lens? If it's a Gap, what would it take to move it to Neutral?):
 ___________________________________________________________
 ```
 
@@ -137,7 +143,7 @@ Diagnostic questions:
 
 Rating:  [ ] Strong   [ ] Neutral   [ ] Gap
 
-Notes:
+Notes (What is your current plan for this lens? If it's a Gap, what would it take to move it to Neutral?):
 ___________________________________________________________
 ```
 
@@ -166,7 +172,7 @@ Diagnostic questions:
 
 Rating:  [ ] Strong   [ ] Neutral   [ ] Gap
 
-Notes:
+Notes (What is your current plan for this lens? If it's a Gap, what would it take to move it to Neutral?):
 ___________________________________________________________
 ```
 
@@ -195,7 +201,7 @@ Diagnostic questions:
 
 Rating:  [ ] Strong   [ ] Neutral   [ ] Gap
 
-Notes:
+Notes (What is your current plan for this lens? If it's a Gap, what would it take to move it to Neutral?):
 ___________________________________________________________
 ```
 
@@ -224,7 +230,7 @@ Diagnostic questions:
 
 Rating:  [ ] Strong   [ ] Neutral   [ ] Gap
 
-Notes:
+Notes (What is your current plan for this lens? If it's a Gap, what would it take to move it to Neutral?):
 ___________________________________________________________
 ```
 
@@ -253,7 +259,7 @@ Diagnostic questions:
 
 Rating:  [ ] Strong   [ ] Neutral   [ ] Gap
 
-Notes:
+Notes (What is your current plan for this lens? If it's a Gap, what would it take to move it to Neutral?):
 ___________________________________________________________
 ```
 
@@ -282,13 +288,15 @@ Diagnostic questions:
 
 Rating:  [ ] Strong   [ ] Neutral   [ ] Gap
 
-Notes:
+Notes (What is your current plan for this lens? If it's a Gap, what would it take to move it to Neutral?):
 ___________________________________________________________
 ```
 
 ---
 
 ## Summary
+
+You've now rated all 9 lenses. Use this table to see your design's profile at a glance. Most games cluster — strong in 3–4 lenses, neutral in 3–4, and weak in 1–2. That clustering tells you what kind of game you're making.
 
 ```
                   Strong   Neutral   Gap

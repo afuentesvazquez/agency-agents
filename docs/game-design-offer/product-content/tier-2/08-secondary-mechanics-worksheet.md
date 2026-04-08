@@ -1,10 +1,14 @@
 # Worksheet 8: Secondary Mechanics
+### Classify every mechanic as structural or feature creep
+
 
 > **Design question:** What supports the core mechanic, and what's just feature creep?
 >
 > **Time to complete:** 20 minutes
 >
 > **When to use:** After completing all Tier 1 worksheets. You need a clear core mechanic before you can correctly classify what's secondary.
+>
+> **What you'll have when you're done:** Every mechanic evaluated, a prioritized cut list (Must/Should/Nice/Cut), and any competing mechanics flagged.
 
 ---
 

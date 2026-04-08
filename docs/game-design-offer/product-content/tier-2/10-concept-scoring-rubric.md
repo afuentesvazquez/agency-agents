@@ -1,10 +1,14 @@
 # Worksheet 10: Concept Scoring Rubric
+### Grade your concept against professional design criteria
+
 
 > **Design question:** How does this concept compare to a well-designed game concept?
 >
 > **Time to complete:** 15–20 minutes
 >
 > **When to use:** After completing the Viability Scorecard (Worksheet 6). This is the extended version — it uses weighted dimensions and sub-criteria for a more nuanced assessment.
+>
+> **What you'll have when you're done:** A weighted score out of 112.5 with a letter grade (A/B/C/F) and your three weakest sub-criteria named.
 
 ---
 

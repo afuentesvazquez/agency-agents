@@ -6,12 +6,16 @@ tags: [game-design, worksheet, mechanics, core-mechanic]
 status: blank
 ---
 
+### Identify the single interaction that makes or breaks the game
+
 
 > **Design question:** What single mechanic must feel good for this game to work?
 >
 > **Time to complete:** 20 minutes
 >
 > **When to use:** After Worksheets 1 and 2. You need a defined concept and audience before you can correctly identify what the core mechanic needs to deliver.
+>
+> **What you'll have when you're done:** One named core verb, a defined input→output, a success/failure feel, and a fun hypothesis.
 
 ---
 

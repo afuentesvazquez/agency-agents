@@ -6,12 +6,16 @@ tags: [game-design, worksheet, prototype, hypothesis, playtesting]
 status: blank
 ---
 
+### Define what to build first and how to know if it worked
+
 
 > **Design question:** What should I build first, and how will I know if it works?
 >
 > **Time to complete:** 15 minutes
 >
 > **When to use:** After completing the Module Map (Worksheet 11) and Viability Scorecard (Worksheet 6). Use when you're ready to commit to building a prototype.
+>
+> **What you'll have when you're done:** One prototype hypothesis, a bounded scope, explicit success and failure criteria, and a playtest plan.
 
 ---
 
